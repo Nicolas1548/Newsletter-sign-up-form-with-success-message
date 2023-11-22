@@ -10,7 +10,7 @@ const emailFormulario = document.getElementById('emailForm');
         
       } else {
         document.getElementById('mensagemErro').innerText = '';
-        window.location.href = 'http://127.0.0.1:5501/index2.html';
+        window.location.href = 'http://127.0.0.1:5500/Newsletter-sign-up-form-with-success-message/index2.html';
       }
     });
 
